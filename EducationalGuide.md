@@ -158,6 +158,7 @@ Input Layer       Hidden Layer          Output Layer
   [x₂]  ●         ●   ●   ●         
   [ ... ] ●         ●---●---●         
   [xₙ]  ●                                
+                              
 
 The Input Layer has one node for each predictor (e.g., HDD, AWND, PRCP, day-of-week indicators).
 
